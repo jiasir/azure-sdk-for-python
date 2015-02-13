@@ -41,7 +41,7 @@ __version__ = '0.9.0'
 # Live ServiceClient URLs
 BLOB_SERVICE_HOST_BASE = '.blob.core.windows.net'
 QUEUE_SERVICE_HOST_BASE = '.queue.core.windows.net'
-TABLE_SERVICE_HOST_BASE = '.table.core.windows.net'
+TABLE_SERVICE_HOST_BASE = '.table.core.windows.cn'
 SERVICE_BUS_HOST_BASE = '.servicebus.windows.net'
 MANAGEMENT_HOST = 'management.core.windows.net'
 
