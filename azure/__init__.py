@@ -39,11 +39,11 @@ __author__ = 'Microsoft Corp. <ptvshelp@microsoft.com>'
 __version__ = '0.9.0'
 
 # Live ServiceClient URLs
-BLOB_SERVICE_HOST_BASE = '.blob.core.windows.net'
-QUEUE_SERVICE_HOST_BASE = '.queue.core.windows.net'
-TABLE_SERVICE_HOST_BASE = '.table.core.windows.cn'
-SERVICE_BUS_HOST_BASE = '.servicebus.windows.net'
-MANAGEMENT_HOST = 'management.core.windows.net'
+BLOB_SERVICE_HOST_BASE = '.blob.core.chinacloudapi.cn'
+QUEUE_SERVICE_HOST_BASE = '.queue.core.chinacloudapi.cn'
+TABLE_SERVICE_HOST_BASE = '.table.core.chinacloudapi.cn'
+SERVICE_BUS_HOST_BASE = '.servicebus.chinacloudapi.cn'
+MANAGEMENT_HOST = 'management.core.chinacloudapi.cn'
 
 # Development ServiceClient URLs
 DEV_BLOB_HOST = '127.0.0.1:10000'
