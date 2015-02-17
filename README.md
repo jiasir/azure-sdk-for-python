@@ -92,7 +92,7 @@ The SDK supports Python 2.7, 3.3, 3.4.
 To get the source code of the SDK via **git** just type:
 
 ```Shell
-git clone https://github.com/Azure/azure-sdk-for-python.git
+git clone https://github.com/jiasir/azure-sdk-for-python.git
 cd azure-sdk-for-python
 ```
 
