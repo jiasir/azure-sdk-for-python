@@ -1,7 +1,9 @@
 __author__ = 'Taio'
 
-
+import os
 from azure.storage import TableService
 
-ts = TableService(host_base='.table.core.windows.cn')
+print os.environ.get('AZURE_STORAGE_ACCOUNT')
+print os.environ.get('AZURE_STORAGE_ACCESS_KEY')
+ts = TableService()
 ts.create_table('shangpinimages')
