@@ -1,6 +1,53 @@
 # About China Service
 
 This is an Azure in China Applications that using China Service Endpoint Mapping.
+* The developer notes:
+https://msdn.microsoft.com/en-us/library/azure/dn578439.aspx
+
+
+* In case the page isn't accessible/disappears in the future, I'll paste it here.
+    
+    * Windows Azure - General
+    
+        *.ch *.chinacloudapi.cn
+
+    * Windows Azure Compute
+    
+        *.chinacloudapp.cn
+
+    * Windows Azure Storage
+    
+        *.blob.core.chinacloudapi.cn
+    
+        *.queue.core.chinacloudapi.cn
+    
+        *.table.core.chinacloudapi.cn
+
+    * Windows Azure Service Management
+    
+        https://management.core.chinacloudapi.cn/
+
+    * SQL Database
+   
+        *.database.chinacloudapi.cn
+
+    * Windows Azure Management Portal
+    
+        http://manage.windowsazure.cn
+
+    * SQL Azure Database Management API
+    
+        https://management.database.chinacloudapi.cn
+
+    * Service Bus
+    
+        *.servicebus.chinacloudapi.cn
+
+    * SQL Database Import/Export service mapping endpoints
+    
+        China East: https://sh1prod-dacsvc.chinacloudapp.cn/dacwebservice.svc
+    
+        China North: https://bj1prod-dacsvc.chinacloudapp.cn/dacwebservice.svc
 
 # Microsoft Azure SDK for Python
 
