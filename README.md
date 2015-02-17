@@ -1,3 +1,7 @@
+# About China Service
+
+This is an Azure in China Applications that using China Service Endpoint Mapping.
+
 # Microsoft Azure SDK for Python
 
 This project provides a set of Python packages that make it easy to access
