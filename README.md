@@ -1,6 +1,9 @@
 # About China Service
 
 This is an Azure in China Applications that using China Service Endpoint Mapping.
+The developer notes:
+https://msdn.microsoft.com/en-us/library/azure/dn578439.aspx
+
 
 # Microsoft Azure SDK for Python
 
